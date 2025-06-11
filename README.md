@@ -20,8 +20,8 @@ KB IT's Your Life 수업에서 푼 문제들 모음 2025.05.28-2025.06.25
 
 | 항목                               | 디렉토리 명 | 기본 | 심화 |
 | ---------------------------------- | :---------: | :--: | :--: |
-| 01 Spring 이해                     |  01_spring  |  ✅  |  🆇   |
-| 02 Spring MVC                      |  02_spring  |  🆇   |  🆇   |
+| 01 Spring 이해                     |  01_spring  |  ✅  |  ✅  |
+| 02 Spring MVC                      |  02_spring  |  ✅  |  ✅  |
 | 03 Spring-MyBatis 연동             |  03_spring  |  🆇   |  🆇   |
 | 04 Spring 기본 게시판              |  04_spring  |  🆇   |  🆇   |
 | 05 Spring 기본 게시판, 파일 업로드 |  05_spring  |  🆇   |  🆇   |
