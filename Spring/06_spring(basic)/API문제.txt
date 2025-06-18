@@ -1,0 +1,14 @@
+5. openweather 사이트에서 API키를 발급받으세요.
+
+1f347fd93297ce9b177390099a21ae30
+
+6.openweather api를 사용하여 서울의 날씨를 확인하세요.
+
+- 온도는 섭씨로 처리
+http://api.openweathermap.org/data/2.5/weather?q=seoul&units=metric&APPID=1f347fd93297ce9b177390099a21ae30&lang=kr
+
+- 해당 날씨에 대한 아이콘을 얻는 url을 작성하고, 확인
+http://openweathermap.org/img/w/03d.png
+
+
+
